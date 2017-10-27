@@ -1,0 +1,81 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/edgarsvoiciss/DMI.git
+    3  ls -l
+    4  cd DMI
+    5  nano
+    6  test1
+    7  nano test1
+    8  test1
+    9  shell operators
+   10  nano shell operators
+   11  nano
+   12  shellop
+   13  nano shellop
+   14  ls - la
+   15  ls -la
+   16  chmod 744 shellop
+   17  ls -la
+   18  shellop
+   19  nano shellop
+   20  ./shellop]
+   21  ./shellop
+   22  nano shellop
+   23* 
+   24  nano shellop
+   25  shellop
+   26  nano shellop
+   27  shellop
+   28  nano shellop
+   29  shellop
+   30  nano shellop
+   31  shellop
+   32  nano shellop
+   33  shellop.sh
+   34  nano 
+   35  nano shell.op
+   36  nano shellop.sh
+   37  shellop.sh
+   38  ls -la
+   39  chmod 744 shellop.sh
+   40  shellop.sh
+   41  nano shellop.sh
+   42  shellop.sh
+   43  2+2
+   44  nano shellop.sh
+   45  ./shellop.sh
+   46  nano shellop.sh
+   47  ./shellop.sh
+   48  nano shellop.sh
+   49  ./shellop.sh
+   50  nano shellop.sh
+   51  ./shellop.sh
+   52  nano shellop.sh
+   53  ./shellop.sh
+   54  nano shellop.sh
+   55  ./shellop.sh
+   56  nano shellop.sh
+   57  ./shellop.sh
+   58  nano shellop.sh
+   59  ./shellop.sh
+   60  nano shellop.sh
+   61  ./shellop.sh
+   62  nano shellop.sh
+   63  ./shellop.sh
+   64  nano shellop.sh;;][]
+   65  nano shellop.sh
+   66  ./shellop.sh
+   67  nano shellop.sh
+   68  ./shellop.sh
+   69  nano shellop.sh
+   70  ./shellop.sh
+   71  nano shellop.sh
+   72  ./shellop.sh
+   73  nano shellop.sh
+   74  ./shellop.sh
+   75  nano shellop.sh
+   76  ./shellop.sh
+   77  nano shellop.sh
+   78  ./shellop.sh
+   79  nano shellop.sh
+   80  ./shellop.sh 49 40
+   81  history > history_20171005.txt

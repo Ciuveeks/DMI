@@ -1,0 +1,52 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  ls -la
+    4  ls -l
+    5  cd DMI
+    6  ls -l
+    7  nano
+    8  ./realationop.sh
+    9  nano realationop.sh
+   10  relationsh.op
+   11  ./relationop.sh
+   12  nano relationop.sh
+   13  ls -l
+   14  chmod 744 relationop.sh
+   15  ./relationop.sh
+   16  nano relationop.sh
+   17  ./relationsh.op
+   18  ./relationop.sh
+   19  nano relationop.sh
+   20  ./relationop.sh
+   21  nano relationop.sh
+   22  ./realtionop.sh
+   23  ls -l
+   24  ./relationop.sh
+   25  nano relationop.sh
+   26  ./relationop.sh
+   27  nano relationop.sh
+   28  ./relationop.sh
+   29* 
+   30  ./relationop.sh
+   31  nano relationop.sh
+   32  ./relationop.sh
+   33  2
+   34  3
+   35  6
+   36  5
+   37  ./relationop.sh
+   38  nano relationop.sh
+   39  ./relationop.sh
+   40  nano relationop.sh
+   41  ./relationop.sh
+   42  nano relationop.sh
+   43  ./relationop.sh
+   44  nano relationop.sh
+   45  ./relationop.sh
+   46  nano relationop.sh
+   47  ./relationop.sh
+   48  nano relationop.sh
+   49  ./relationop.sh
+   50  nano relationop.sh
+   51  nano git-upload
+   52  history > history_20171012.txt

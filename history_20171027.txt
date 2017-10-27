@@ -1,0 +1,19 @@
+    1  git
+    2  sudo apt-get update
+    3  sudo apt-get install git
+    4  apt-get install git
+    5  sudo apt-get install git
+    6  who
+    7  pwd
+    8  ls -l
+    9  git clone https://github.com/edgarsvoiciss/DMI
+   10  ls -la
+   11  cd DMI/
+   12  ls -la
+   13  rm -rf .git/
+   14  rm Datormaciba_md 
+   15  ls -la
+   16  git init
+   17  git remote add origin https://github.com/Ciuveeks/DMI
+   18  nano git-upload 
+   19  history > history_20171027.txt

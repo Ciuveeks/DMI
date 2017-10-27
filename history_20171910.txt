@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/edgarsvoiciss/DMI.git
+    3  pwd
+    4  ls -l
+    5  ls -la
+    6  cd DMI
+    7  ls -l
+    8  nano realationop.sh
+    9  nano relationop.sh
+   10  nano dialogs.sh
+   11  chmod 744 dialogs.sh
+   12  ./dialogs.sh
+   13  nano dialogs.sh
+   14  ./dialogs.sh
+   15  nano dialogs.sh
+   16  cp dialogs.sh a_vs_b.sh
+   17  nano a_vs_b.sh
+   18  ./a_vs_b.sh 
+   19  nano a_vs_b.sh
+   20  ./a_vs_b.sh 
+   21  nano a_vs_b.sh
+   22  nano dialogs.sh
+   23  nano a_vs_b.sh
+   24  ./a_vs_b.sh 
+   25  nano a_vs_b.sh
+   26  ./a_vs_b.sh 
+   27  nano a_vs_b.sh
+   28  ./a_vs_b.sh 
+   29  nano a_vs_b.sh
+   30  ./a_vs_b.sh 
+   31  nano a_vs_b.sh
+   32  ./a_vs_b.sh 
+   33  nano a_vs_b.sh
+   34  ./a_vs_b.sh 
+   35  nano a_vs_b.sh
+   36  cp a_vs_b.sh  a_vs_b_vs_c.sh
+   37  nano a_vs_b_vs_c.sh
+   38  ./a_vs_b_vs_c.sh
+   39  nano a_vs_b_vs_c.sh
+   40  ./a_vs_b_vs_c.sh
+   41  nano a_vs_b_vs_c.sh
+   42  ./a_vs_b_vs_c.sh
+   43  nano a_vs_b_vs_c.sh
+   44  ./a_vs_b_vs_c.sh
+   45  nano a_vs_b_vs_c.sh
+   46  ls -l
+   47  nano git-upload
+   48  history.txt > history_20171910.txt
+   49  history > history_20171910.txt

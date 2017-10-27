@@ -1,0 +1,117 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  pwd
+    4  firefox
+    5  pwd
+    6  whoami
+    7  pwd
+    8  whoami
+    9  fuckoff
+   10  pwd
+   11  internetexplorer
+   12  googlechrome
+   13  ls
+   14  man
+   15  man xd
+   16  cd ..
+   17  pwd
+   18  cd .
+   19  ls
+   20  ls
+   21  cd ..
+   22  cd .
+   23  cs
+   24  cd
+   25  ls
+   26  ls
+   27  echo
+   28  cat
+   29  >
+   30  history
+   31  cat /etc/*-release
+   32  echo $0
+   33  sh]
+   34  sh\
+   35  sh
+   36  ls
+   37  cat history
+   38  cat history.txt
+   39  git init
+   40  git add .
+   41  git config --global user.email voicissedgars@gmail.com
+   42  ls
+   43  git commit -m "20170914_15_55"
+   44  git remote add origin https://github.com/edgarsvoiciss/DMI.git
+   45  git push origin master
+   46  ls -l
+   47  cat history.txt
+   48  history > history.txt
+   49  ls -l
+   50  cat history.txt
+   51  nano history.txt
+   52  ls
+   53  ls -l
+   54  cat history.txt
+   55  git add.
+   56  git add .
+   57  git commit -m "20170914_16_45"
+   58  git push origin master
+   59  man echo
+   60  echo Tecmint is community  of Linux nerds
+   61  x=10
+   62  echo The value of variable x = $x
+   63  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+   64  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds
+echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+   65  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds
+echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+   66  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+   67  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+   68  echo *
+   69  echo -e "\n\tTecmist \n\tis \n\ta \n\tcommunity \tof \tLinux \n\tNerds"
+   70  echo -e "\n\tTecmist \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+   71  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+   72  ls -l
+   73  pwd
+   74  cp history.txt  a.txt
+   75  ls -l
+   76  cp history.txt  a.txt
+   77  cp history.txt  ~/a1.txt
+   78  cp history.txt  /home/user/a2.txt
+   79  cp history.txt  ../a3.txt
+   80  ls
+   81  cd ..
+   82  ls
+   83  cd /darbi
+   84  cd /
+   85  pwd
+   86  mv /home/user/*.txt ~/darbi/
+   87  cd 
+   88  ls
+   89  cd darbi/
+   90  ls
+   91  mkdir apakshdarbi
+   92  ls -l
+   93  mv a*.txt ./apakshdarbi/
+   94  ls
+   95  cd apakshdarbi/
+   96  ls
+   97  cd ..
+   98  rmdir apakshdarbi/
+   99  man rmdir 
+  100  rm apakshdarbi/
+  101  rm -r  apakshdarbi/
+  102  ls
+  103  cat history.txt 
+  104  less history.txt 
+  105  nano history.txt 
+  106  ls -l
+  107  nano 
+  108  ls
+  109  cat nano.txt 
+  110  cat nano
+  111  nano
+  112  n
+  113  open nano
+  114  history
+  115  history > history.txt

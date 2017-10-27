@@ -1,0 +1,126 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/edgarsvoiciss/DMI.git
+    3  pwd
+    4  ls -l
+    5  cd dmi
+    6  cd DMI
+    7  ls -l
+    8  nano if.sh
+    9  chmod 744 if.sh
+   10  ./ if.sh
+   11  ./if.sh
+   12  ./if.sh 10
+   13  nano if.sh
+   14  ./if.sh 1
+   15  ./if.sh
+   16  ./if.sh 10
+   17  nano if.sh
+   18  ./if.sh 10
+   19  ./if.sh 1
+   20  ./if.sh 
+   21  nano if.sh
+   22  ./if.sh 
+   23  ./if.sh 10
+   24  nano if.sh
+   25  ./if.sh 10
+   26  nano if.sh
+   27  ./if.sh 10
+   28  ./if.sh -10
+   29  nano if.sh
+   30  ./if.sh -10
+   31  nano if.sh
+   32  ./if.sh 10
+   33  ./if.sh -10
+   34  nano if.sh
+   35  ./if.sh 10
+   36  ./if.sh -10
+   37  ./if.sh 2
+   38  nano if.sh
+   39  ./if.sh 2
+   40  ./if.sh -10
+   41  ./if.sh 0.5
+   42  ./if.sh -10
+   43  ./if.sh 0.5
+   44  ./if.sh -10
+   45  ./if.sh 0.5
+   46  nano if.sh
+   47  ./if.sh 0
+   48  ./if.sh -10
+   49  ./if.sh 0.5
+   50  ./if.sh 10
+   51  nano if.sh
+   52  nano sort.sh
+   53  nano if.sh
+   54  nano sort.sh
+   55  ./ sort.sh
+   56  chmod 744 sort.sh
+   57  ./sort.sh
+   58  nano sort.sh
+   59  ./sort.sh 8 2 7
+   60  ./sort.sh 1 9 4
+   61  nano sort.sh
+   62  ./sort.sh 1 9 4
+   63  nano sort.sh
+   64  ./sort.sh 1 9 4
+   65  ./sort.sh 5 2 9
+   66  nano sort.sh
+   67  ./sort.sh
+   68  nano sort.sh
+   69  ./sort.sh
+   70  nano sort.sh
+   71  ./sort.sh
+   72  nano sort.sh
+   73  cp sort.sh statistika.sh
+   74  nano statistika.sh
+   75  ./statistika.sh
+   76  nano statistika.sh
+   77  ./statistika.sh
+   78  nano statistika.sh
+   79  ./statistika.sh
+   80  nano statistika.sh
+   81  ./statistika.sh
+   82  nano statistika.sh
+   83  ./statistika.sh
+   84  nano statistika.sh
+   85  ./statistika.sh
+   86  2
+   87  ./statistika.sh
+   88  nano statistika.sh
+   89  ./statistika.sh
+   90  nano statistika.sh
+   91  ./statistika.sh
+   92  nano statistika.sh
+   93  ./statistika.sh
+   94  nano statistika.sh
+   95  ./statistika.sh
+   96  nano statistika.sh
+   97  ./statistika.sh
+   98  nano statistika.sh
+   99  ./statistika.sh
+  100  nano statistika.sh
+  101  ./statistika.sh
+  102  nano statistika.sh
+  103  ./statistika.sh
+  104  nano statistika.sh
+  105  ./statistika.sh
+  106  nano statistika.sh
+  107  nano array_loop.sh
+  108  chmod array_lopp.sh
+  109  chmod 744 array_loop.sh
+  110  ./array_loop.sh
+  111  ./array_loop.sh 7 3 8
+  112  nano array_loop.sh
+  113  ./array_loop.sh 7 3 8
+  114  nano array_loop.sh
+  115  ./array_loop.sh 23
+  116  nano array_loop.sh
+  117  ./array_loop.sh 23
+  118  nano array_loop.sh
+  119  ./array_loop.sh 23
+  120  nano array_loop.sh
+  121  ./array_loop.sh 23 45 89
+  122  nano statistika.sh
+  123  ./array_loop.sh 23 45 89
+  124  nano array_loop.sh
+  125  nano statistika.sh
+  126  history > history_20171026.txt

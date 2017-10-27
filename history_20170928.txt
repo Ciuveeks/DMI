@@ -1,0 +1,123 @@
+    1  VirtualBox --startvm XP
+    2  1232323311313131313 x 324434244
+    3  calculate 2244342342423423423 / 543434434
+    4  548 
+    5  cd..
+    6  cd ..
+    7  d48
+    8  cd
+    9  ls -l
+   10  git clone https://github.com/edgarsvoiciss/DMI.git
+   11  ls -l
+   12  cd DMI
+   13  pwd
+   14  ls -la
+   15  mainiigais=10
+   16  echo $mainiigais
+   17  1_mainiiagis=20
+   18  mainiigais_1=30
+   19  echo $1_mainiigais
+   20  echo $mainiigais_1
+   21  nano shell_exple.sh
+   22  ls -la
+   23  cat shell_exple.sh
+   24  NAME="Vards Uzvards"
+   25  echo $NAME
+   26  shell_exple.sh
+   27  chmod 744 shell_exple.sh
+   28  ls -la
+   29  echo $PATH
+   30  pwd
+   31  pwd 
+   32  /home/user/DMI/shell_exple.sh
+   33  ~/DMI/shell_exple.sh
+   34  ./shell_exple.sh
+   35  nano shell_exple.sh
+   36  shell_exple.sh
+   37  ./shell_exple.sh
+   38  nano shell_exple.sh
+   39  ./shell_exple.sh
+   40  cat shell_exple.sh 
+   41  /.shell_exple.sh
+   42  ./shell_exple.sh
+   43  nano shell_exple.sh
+   44  ./shell_exple.sh
+   45  nano shell_exple.sh
+   46  cat shell_exple.sh 
+   47  ./shell_exple.sh
+   48  nano shell_exple.sh
+   49  ./shell_exple.sh
+   50  nano shell_exple.sh
+   51  ./shell_exple.sh
+   52  nano shell_exple.sh
+   53  echo $0
+   54  ./shell_exple.sh
+   55  ~/DMI/shell_exple.sh
+   56  nano shell_exple.sh
+   57  ./shell_exple.sh
+   58  nano shell_exple.sh
+   59  ./shell_exple.sh
+   60  echo $#
+   61  nano shell_exple.sh
+   62  ./shell_exple.sh
+   63  ./shell_exple.sh arg1
+   64  ./shell_exple.sh arg2
+   65  ./shell_exple.sh arg1 arg 2
+   66  ./shell_exple.sh arg1
+   67  ./shell_exple.sh arg1 arg 2
+   68  ./shell_exple.sh arg1 arg2
+   69  echo $*
+   70  nano shell_exple.sh
+   71  $*
+   72  echo $*
+   73  ./shell_exple.sh
+   74  ./shell_exple.sh arg1
+   75  ./shell_exple.sh arg1 arg2
+   76  echo $!
+   77  echo $@
+   78  nano shell_exple.sh
+   79  ./shell_exple.sh
+   80  ./shell_exple.sh arg 1
+   81  ./shell_exple.sh arg1
+   82  ./shell_exple.sh arg1 arg2
+   83  nano shell_exple.sh
+   84  echo $?
+   85  nano shell_exple.sh
+   86  ./shell_exple.sh
+   87  nano shell_exple.sh
+   88  ./shell_exple.sh
+   89  nano shell_exple.sh
+   90  ./shell_exple.sh
+   91  nano shell_exple.sh
+   92  ./shell_exple.sh
+   93  $$
+   94  echo $$
+   95  nano shell_exple.sh
+   96* 
+   97  ./shell_exple.sh
+   98  nano shell_exple.sh
+   99  ./shell_exple.sh
+  100  echo $!
+  101  nano shell_exple.sh
+  102  ./shell_exple.sh
+  103  cd..
+  104  cd ..
+  105  nano git-upload
+  106  ls -la
+  107  DMI
+  108  /DMI
+  109  DMI/
+  110  cd DMI/
+  111  nano git-upload
+  112  git-upload
+  113  cs ..
+  114  cd ..
+  115  git-upload
+  116  cd DMI/
+  117  git-upload
+  118  exec git-upload
+  119  git-upload
+  120  nano git-upload
+  121  ./git-upload
+  122  exit
+  123  history > history_20170928.txt
