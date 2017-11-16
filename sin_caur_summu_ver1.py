@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*-
 from math import sin
 # 1. (float) * 2 (int) = 2. (float)
@@ -24,4 +25,3 @@ print "a2 = %6.2f S2 = %6.2f"%(a2,S2)
 a3 = (-1)**3*x**7/(1*2*3*4*5*6*7)
 S3 = a0+a1+a2+a3
 print "a3 = %6.2f S3 = %6.2f"%(a3,S3)
-
