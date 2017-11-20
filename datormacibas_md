@@ -1,0 +1,19 @@
+whoami - parāda datus par lietotāju
+rmdir - direktorija dzēšana
+pwd - parāda atrašanas vietu
+nano - teksta editors
+mv - pārvitot failus
+mkdir - jauna direktorija izveidošana
+man - instrukcija par konkuretu komandu
+ls
+ls -la
+ls -l - parada informaciju par failiem (ls, ls -l, ls -la)
+cat - nolasa datus par failiem
+cd - mainīt atrašanas vietu
+cd .. - iziet no esošā faila
+firefox - atvērt internetpārlūku
+echo $0 - attēlo ejošo procesu
+echo - teksta atkārtošanai
+chmod - mainīt piekļuvi failam
+cp - kopēt failus
+
