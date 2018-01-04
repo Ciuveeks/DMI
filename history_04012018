@@ -1,0 +1,16 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/Ciuveeks/DMI
+    4  cd DMI
+    5  nano labdarbs1.sh
+    6  chmod 744
+    7  chmod 744 labdarbs1.sh
+    8  ./labdarbs1.sh
+    9  cd PYTHON
+   10  nano labdarbs2.py
+   11  ..cd PYTHON
+   12  cd.. DMI
+   13  cd.. PYTHON
+   14  cd..
+   15  cd ..
+   16  history > history_04012018 
