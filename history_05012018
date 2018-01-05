@@ -35,3 +35,12 @@
    35  cd
    36  cd DMI
    37  history > history_05012018
+   38  ./git-upload
+   39  cd PYTHON
+   40  cd DMI
+   41  cd.
+   42  cd..
+   43  ..cd
+   44  .cd
+   45  cd ..
+   46  history > history_05012018
