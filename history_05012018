@@ -1,0 +1,37 @@
+    1  VirtualBox --startvm XP
+    2  nano labdarbs2.py
+    3  ./ labdarbs2.py
+    4  ./labdarbs2.py
+    5  chmod 744
+    6  chmod 744 labdarbs.py
+    7  chmod 744 labdarbs2.py
+    8  ./labdarbs2.py
+    9  nano labdarbs2.py
+   10  ./labdarbs2.py
+   11  nano labdarbs2.py
+   12  ./labdarbs2.py
+   13  nano labdarbs2.py
+   14  ./labdarbs2.py
+   15  nano labdarbs2.py
+   16  ./labdarbs2.py
+   17  nano labdarbs2.py
+   18  ./labdarbs2.py
+   19  nano labdarbs2.py
+   20  ./labdarbs2.py
+   21  nano labdarbs2.py
+   22  ./labdarbs2.py
+   23  1
+   24  ./labdarbs2.py
+   25  nano labdarbs2.py
+   26  ./labdarbs2.py
+   27  nano labdarbs2.py
+   28  ./labdarbs2.py
+   29  nano labdarbs2.py
+   30  ./labdarbs2.py
+   31  nano labdarbs2.py
+   32  ./labdarbs2.py
+   33  nano labdarbs2.py
+   34  cd..
+   35  cd
+   36  cd DMI
+   37  history > history_05012018
