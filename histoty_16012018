@@ -1,0 +1,14 @@
+    1  VirtualBox --startvm XP
+    2  DMI cd
+    3  DMI cd..
+    4  DMI cd.
+    5  DMI cd
+    6  cd DMI
+    7  cd PYTHON
+    8  idle &
+    9  cd.. 
+   10  cd.. PYTHON
+   11  cd ..
+   12  git-upload
+   13  ./git-upload
+   14  history > histoty_16012018
