@@ -14,15 +14,18 @@ def mana_funkcija(x):
         S = S + a
     return S
 
-a = -3 
-b = 3 
+a = -1
+b = 1
 x = np.arange(a,b,0.05)
 y = mana_funkcija(x) 
 plt.plot(x,y,'g')
 plt.grid()
 plt.xlabel('x ')
 plt.ylabel('y ')
-plt.title('exp funkcija')
+plt.title('EXP funkcija')
+plt.text(0.66, 4.0, 'Funkcija')
+plt.text(0.56, 6.0, '1.k. atvasinajums')
+plt.text(0.54, 8.0, '2.k. atvasinajums')
 
 
 
@@ -61,7 +64,7 @@ for i in range(n-3):
     delta_x = x[i+1]-x[i]
     delta_y_2prim = y_2prim[i+1]-y_2prim[i]
     y_3prim.append(delta_y_2prim/delta_x)
-plt.plot(x[:n-3],y_3prim,'g*')
+plt.plot(x[:n-3],y_3prim,'g')
 '''
 
 
