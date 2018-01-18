@@ -47,3 +47,4 @@ plt.show()
 areaRect = (b-a)*(d-c)
 areaFunc = areaRect * len(green_x) / N
 print areaFunc
+print "Parāda cik laukuma vienības ir aizņēmusi funkcija s(x) ar zaļajiem trijstūriem.Aizņemtais laukums tiek aprēķināts reizinot visu laukumu ar zaļajiem trijstūriem un dalot ar visiem punktiem"
