@@ -1,0 +1,6 @@
+    1  VirtualBox --startvm XP
+    2  idle &
+    3  nano 
+    4  nano index.html
+    5  cd ..
+    6  history > history_19_01_2018
